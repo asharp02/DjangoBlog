@@ -25,7 +25,8 @@ SECRET_KEY = 'f_)tk*bnk%kic4=j@!-sg(eaq1ba3otlu!&mv8f6_5p2=-zrzz'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '[::1]']
+ALLOWED_HOSTS = ['127.0.0.1', '[::1]',
+                'asharp02.pythonanywhere.com']
 
 
 # Application definition
